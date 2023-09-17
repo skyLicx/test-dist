@@ -1,0 +1,1 @@
+import{o as e,q as o}from"./index-07c192a7.js";import{_ as r}from"./_plugin-vue_export-helper-c27b6911.js";const c={};function n(t,s){return e(),o("div",null,"发布帖子")}const f=r(c,[["render",n]]);export{f as default};
