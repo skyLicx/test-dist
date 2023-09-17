@@ -1,1 +1,0 @@
-import{d as o,c as e,o as r}from"./index-e0d4f194.js";import t from"./login-form-4498d103.js";import"./loading-e21122b8.js";import"./_plugin-vue_export-helper-c27b6911.js";const _=o({__name:"index",setup(n){return(m,p)=>(r(),e(t))}});export{_ as default};
