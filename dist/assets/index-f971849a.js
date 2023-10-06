@@ -1,0 +1,1 @@
+import{o as e,q as r,F as n,x as s,s as a}from"./index-2488a7c0.js";import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";const c={};function i(_,d){return e(),r("div",null,[(e(),r(n,null,s(100,(l,t)=>a("div",{key:t},"客户管理 11")),64))])}const u=o(c,[["render",i]]);export{u as default};
