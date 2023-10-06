@@ -1,0 +1,1 @@
+import{o as e,q as o}from"./index-950bfb26.js";import{_ as r}from"./plugin-vueexport-helper-c27b6911.js";const c={};function n(t,s){return e(),o("div",null,"用户账号")}const f=r(c,[["render",n]]);export{f as default};

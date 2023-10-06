@@ -1,0 +1,1 @@
+import{d as o,r as s,o as n,q as r,A as l,O as u,Q as d,s as p}from"./index-950bfb26.js";const c={name:"Categorize"},f=o({...c,setup(i){const e=s("111");return(_,t)=>(n(),r("div",null,[l(" 模板分类 "),u(p("input",{"onUpdate:modelValue":t[0]||(t[0]=a=>e.value=a),type:"text"},null,512),[[d,e.value]])]))}});export{f as default};
